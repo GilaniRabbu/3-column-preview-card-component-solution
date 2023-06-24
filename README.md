@@ -33,8 +33,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Solution URL: [Solutions](https://github.com/Toufiq-Gilani/3-column-preview-card-component-solutions)
-- Live Site URL: [Live Version](https://toufiq-gilani-blog-006.netlify.app/)
+- Solution URL: [Solutions](https://github.com/Toufiq-Gilani/3column-preview-card-component-solutions)
+- Live Site URL: [Live Version](https://toufiq-gilani-blog-007.netlify.app/)
 
 
 ## My process
