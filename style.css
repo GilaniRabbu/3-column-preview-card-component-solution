@@ -117,7 +117,7 @@ main {
   padding: 1rem;
 }
 
-section {
+.container {
   display: flex;
 }
 
@@ -158,10 +158,12 @@ img {
   background: var(--clr-primary-500);
 }
 
+h1,
 .fw-bold {
   font-weight: var(--fw-700);
 }
 
+h1,
 .ff-title {
   color: var(--clr-neutral-200);
   font-family: var(--ff-title);
@@ -206,7 +208,7 @@ p {
 
 
 @media (max-width: 870px) {
-  section {
+  .container {
     flex-direction: column;
   }
 
